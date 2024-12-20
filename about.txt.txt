@@ -1,0 +1,14 @@
+Hello, This is my first relatively professional project in the field of web development.
+It’s a mini project where we can add tasks to a list and mark them when they are completed.
+What distinguishes this project for me is that I developed it using the React library. The project was created with the help of React and Vite, and it utilizes a ready-made CSS library(taildwindCSS).
+Thank you for your attention.
+
+سلام این اولین پروژه ی نسبتا حرفه ای من تو حوزه ی وب هست.
+یک مینی پروژه ک میتونیم بهش لیست کارهارو اضافه منیم و برای انجام دادنشون نشونه گذاری کنیم.
+نکته ی متمایز این پروژه برای من این هست که این پروژه رو رو با کتابخونه ی
+ زدم React.
+به کمک ری اکت و با وایت و به کمکت کتاب خونه ی آماده ی سی اس اس این پروژه زده شده.
+تشکر از توجهتون.
+
+
+////React-taildwindCSS-html-vite
